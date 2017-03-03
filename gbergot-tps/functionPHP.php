@@ -2,7 +2,7 @@
 
 //Déclaration d'une fonction
 function titre($titre,$niveau=1){
-  echo <h{$niveau}>{$titre}</h{$niveau}>;   
+  echo "<h{$niveau}>{$titre}</h{$niveau}>";   
 }
 
 //
